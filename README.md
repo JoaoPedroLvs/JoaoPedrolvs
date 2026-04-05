@@ -7,7 +7,7 @@
 ## 🙋 Sobre mim
 
 Desenvolvedor **Fullstack e Mobile** apaixonado por criar soluções que vão do backend ao app mobile.
-Trabalho com ecossistemas modernos | desde APIs robustas com Laravel, até aplicativos fluidos com Flutter e interfaces dinâmicas com Angular.
+Trabalho com ecossistemas modernos — desde APIs robustas com Laravel, até aplicativos fluidos com Flutter e interfaces dinâmicas com Angular.
 
 ---
 
@@ -25,7 +25,7 @@ Trabalho com ecossistemas modernos | desde APIs robustas com Laravel, até aplic
 ## 🚀 Projeto em destaque
 
 ### 📋 SISGIT
-> Sistema de processamento de infrações de trânsito | Gestão, consulta e controle de ocorrências viárias.
+> Sistema de processamento de infrações de trânsito — gestão, consulta e controle de ocorrências viárias.
 
 `Laravel` `Python` `Angular`
 
