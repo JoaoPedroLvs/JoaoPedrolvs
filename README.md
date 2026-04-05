@@ -1,4 +1,7 @@
-<!-- Header -->
+<div align="right">
+  <a href="README.md">🇧🇷 Português</a> · <a href="README.en.md">🇺🇸 English</a>
+</div>
+
 <h1 align="center">Olá 👋, eu sou João Pedro Alves</h1>
 <h3 align="center">Desenvolvedor Fullstack & Mobile | Laravel · Flutter · Python · Angular</h3>
 
@@ -33,14 +36,11 @@ Trabalho com ecossistemas modernos — desde APIs robustas com Laravel, até apl
 
 ## 📊 Atividade
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroLvs&show_icons=true&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=JoaoPedroLvs&theme=github-dark-blue&hide_border=true)
-
-![Snake animation](https://raw.githubusercontent.com/JoaoPedroLvs/JoaoPedroLvs/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 🔗 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoPedroLvs-181717?style=flat&logo=github)](https://github.com/JoaoPedroLvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3opedrolvs/)
